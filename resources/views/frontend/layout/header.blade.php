@@ -3,7 +3,7 @@
     <div class="menu-top background-black">
         <div class="container">
             <div class="row">
-                <div class="col-6 px-0 px-md-3 py-3 text-right">
+                <div class="col-12 px-0 px-md-3 py-3 text-right">
                     <span class="call-top "><i class="fa fa-phone"></i> <b>call us:</b></span> <a href="#" class="call-top"><b> +977-1-4216356 </b></a>
                 </div>
             </div>

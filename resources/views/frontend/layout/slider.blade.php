@@ -13,8 +13,12 @@
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <div class="col-12 parallax-fade-top" style="top: 0px; opacity: 1;">
+                                        <div class="hero-text"><img src="{{asset('images/atullogo.png')}}" style="width: 200px; height: auto"></div>
+                                    </div><div class="col-12 parallax-fade-top" style="top: 0px; opacity: 1;">
                                         <div class="hero-text">Atul Traders</div>
                                     </div>
+
+
                                 </div>
                             </div>
                         </div>
